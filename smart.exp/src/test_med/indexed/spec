@@ -3,7 +3,7 @@ database                /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test
 include_file            /home/ziantsabit/Documents/tubes-stbi/smart.exp/lib/spec.expcoll
 doc_loc                 /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_med/indexed/doc_loc
 query_loc               /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_med/indexed/query_loc
-qrels_text_file         /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_med/coll/MED.REL
+qrels_text_file         /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_med/coll/qrels.text
 
 ## MED DOCDESC
 #### GENERIC PREPARSER
