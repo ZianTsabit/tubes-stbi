@@ -1,0 +1,7 @@
+include_file /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cacm/indexed/spec
+query_file query.nnn
+doc_file doc.atn
+inv_file inv.atn
+tr_file ./tr.atn.nnn
+rr_file ./rr.atn.nnn
+run_name " Doc weight == atn; Query weight == nnn;"

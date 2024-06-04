@@ -1,9 +1,9 @@
 ## INFORMATION LOCATIONS
-database                /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/src/test_cacm/indexed
-include_file            /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/lib/spec.expcoll
-doc_loc                 /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/src/test_cacm/indexed/doc_loc
-query_loc               /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/src/test_cacm/indexed/query_loc
-qrels_text_file         /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/src/test_cacm/coll/qrels.text
+database                /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cacm/indexed
+include_file            /home/ziantsabit/Documents/tubes-stbi/smart.exp/lib/spec.expcoll
+doc_loc                 /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cacm/indexed/doc_loc
+query_loc               /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cacm/indexed/query_loc
+qrels_text_file         /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cacm/coll/qrels.text
 
 ## CACM DOCDESC
 #### GENERIC PREPARSER

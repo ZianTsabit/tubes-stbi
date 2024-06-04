@@ -1,4 +1,4 @@
-text_stop_file          /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/lib/common_words
+text_stop_file          /home/ziantsabit/Documents/tubes-stbi/smart.exp/lib/common_words
 database                "."
 temp_dir                ""
 

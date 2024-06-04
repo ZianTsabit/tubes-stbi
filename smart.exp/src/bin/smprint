@@ -1,8 +1,8 @@
 #! /bin/csh
 # Print the given relation
 
-set bin = /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/src/bin
-set spec_file = /home/ziantsabit/Documents/personal-project/tubes-stbi/smart.exp/lib/spec.default
+set bin = /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/bin
+set spec_file = /home/ziantsabit/Documents/tubes-stbi/smart.exp/lib/spec.default
 set begin_id = 0
 set end_id = 2147483647
 

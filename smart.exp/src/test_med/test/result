@@ -1,0 +1,1792 @@
+METHOD nnn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD nnc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == nnc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ntc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ntc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD bnc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == bnc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD btc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == btc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ann.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ann; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD anc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == anc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD atc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == atc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltn.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltn; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD lnc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == lnc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.nnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == nnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.ntn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == ntn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.nnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == nnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.ntc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == ntc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.bnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == bnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.btn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == btn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.bnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == bnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.btc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == btc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.ann
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == ann; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.atn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == atn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.anc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == anc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.atc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == atc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.lnn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == lnn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.ltn
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == ltn; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.lnc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == lnc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
+METHOD ltc.ltc
+
+           Relevant ranked evaluation
+***ERROR*** Run  Doc weight == ltc; Query weight == ltc; cannot be evaluated. Ignored
+***ERROR*** No valid runs included
+
+---------------------------------------
