@@ -1,0 +1,7 @@
+include_file /mnt/c/Users/lenovo/Downloads/SMART.EXP.TAR/smart.exp/src/test_adi/indexed/spec
+query_file query.bnc
+doc_file doc.ntc
+inv_file inv.ntc
+tr_file ./tr.ntc.bnc
+rr_file ./rr.ntc.bnc
+run_name " Doc weight == ntc; Query weight == bnc;"
