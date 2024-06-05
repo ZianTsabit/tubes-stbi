@@ -1,0 +1,7 @@
+include_file /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/test_cisi/indexed/spec
+query_file query.bnc
+doc_file doc.nnc
+inv_file inv.nnc
+tr_file ./tr.nnc.bnc
+rr_file ./rr.nnc.bnc
+run_name " Doc weight == nnc; Query weight == bnc;"

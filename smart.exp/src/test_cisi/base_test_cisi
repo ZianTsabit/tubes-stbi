@@ -1,0 +1,39 @@
+#! /bin/tcsh
+
+set bin = /home/ziantsabit/Documents/tubes-stbi/smart.exp/src/bin
+set current = $cwd
+set database = $current/indexed
+
+# Very small test suite for smart on the included adi collection
+# Run using "csh".  You can figure out more of what is going on by
+# running this, and afterwords running
+#        cd test
+#        smart top.inter spec.atc spec_list "spec.nnn spec.atc"
+# and playing around with the commands (try "help", "adv", "exp" first
+# to get full list of available commands)
+
+#########################################################################
+# Make the adi test collection
+#########################################################################
+# ./make_cacm
+
+# echo "collection made"
+
+/bin/rm -rf test
+mkdir test
+cd test
+
+
+#########################################################################
+# Perform two retrieval runs with the vectors already prepared by make_adi
+#########################################################################
+cat > spec.nnn << EOF
+include_file $database/spec
+tr_file ./tr.nnn
+rr_file ./rr.nnn
+run_name "Doc weight == Query weight == nnn  (term-freq)"
+EOF
+
+$bin/smart retrieve spec.nnn
+
+echo "retrieval run nnn.nnn done"
